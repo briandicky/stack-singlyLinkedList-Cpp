@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Else
+*.pdf
+*.depend
+test1
+test2
